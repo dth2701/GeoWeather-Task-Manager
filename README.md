@@ -1,5 +1,5 @@
 
-basic angular 1.7.5 app. See demo here: 
+basic angular 1.7.5 app. See demo here: https://dth2701.github.io/GeoWeather-Task-Manager 
 
 features:
 * displaying time and date
